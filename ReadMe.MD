@@ -1,4 +1,7 @@
-This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT while developing the following tutorial:
+This is a fullstack chatbot created with React, Nodejs, OpenAi, and ChatGPT:<br>
+
+![screencapture](https://github.com/NP558565/react-nodejs-chatgpt-tutorial/assets/76566329/98860b26-181a-41c5-a931-b36d2e043dd5)<br>
+
 
 [How To Build A Chat Bot Application With OpenAI, ChatGPT, Nodejs, And React](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/)
 
